@@ -1,0 +1,5 @@
+bot.log
+debug-video.mp4
+test-video.mp4
+__pycache__/
+*.part
